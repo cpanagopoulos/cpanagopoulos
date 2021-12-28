@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cpanagopoulos
 - 👀 I’m interested in bridging the gap between traditional finance and tomorrow's technology
-- 🌱 I’m currently learning about blockchain technology
-- 💞️ I’m looking to collaborate on FinTech projects
+- 🌱 I’m currently learning about blockchain and Web 3.0
+- 💞️ I’m looking to collaborate on blockchain projects
 - 📫 How to reach me charles.efthimios@gmail.com or @SleepingJaguar0 on Twitter
 
 <!---
